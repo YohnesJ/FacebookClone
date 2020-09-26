@@ -30,6 +30,16 @@ function StoryReel() {
         profileSrc="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fhu%2Fsearch%2Fimages%3Fk%3Ddefault%2Bprofile%2Bpicture&psig=AOvVaw1-eqfC7ZGObLONctcPA-iQ&ust=1601073436876000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND-iL7tguwCFQAAAAAdAAAAABAD"
         title="Yohnes Jemere"
       />
+      <Story
+        image="https://img.freepik.com/free-vector/black-dark-3d-low-poly-geometric-background_79145-393.jpg?size=626&ext=jpg"
+        profileSrc="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fhu%2Fsearch%2Fimages%3Fk%3Ddefault%2Bprofile%2Bpicture&psig=AOvVaw1-eqfC7ZGObLONctcPA-iQ&ust=1601073436876000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND-iL7tguwCFQAAAAAdAAAAABAD"
+        title="Yohnes Jemere"
+      />
+      <Story
+        image="https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__340.jpg"
+        profileSrc="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fhu%2Fsearch%2Fimages%3Fk%3Ddefault%2Bprofile%2Bpicture&psig=AOvVaw1-eqfC7ZGObLONctcPA-iQ&ust=1601073436876000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND-iL7tguwCFQAAAAAdAAAAABAD"
+        title="Yohnes Jemere"
+      />
     </div>
   );
 }

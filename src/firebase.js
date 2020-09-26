@@ -1,3 +1,5 @@
+import firebase from "firebase";
+
 const firebaseConfig = {
   apiKey: "AIzaSyD_edrm2eUb6bE22BcGhkqrQC6AVd1gnDg",
   authDomain: "facebook-clone-a2166.firebaseapp.com",
@@ -7,3 +9,11 @@ const firebaseConfig = {
   messagingSenderId: "202544468181",
   appId: "1:202544468181:web:5361ac6f0022dc2a5fd25c",
 };
+
+const firebaseApp = firebase.initializeApp(firebaseConfig);
+const db = firebaseApp.firestore();
+const auth = firebase.auth();
+const provider = new firebase.auth.GoogleAuthProvider();
+
+export { auth, provider };
+export default db;
